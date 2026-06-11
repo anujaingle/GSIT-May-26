@@ -1,4 +1,5 @@
 I am master
 login
 payment
+google pay
 
